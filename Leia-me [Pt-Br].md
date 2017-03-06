@@ -14,5 +14,5 @@ Para instalar o tema você irá precisa (obviamente) do "oblogout", dos arquivos
 
 4 - Pronto!
 
-![My image](https://github.com/bruhensant/test/blob/master/Adeos2.png)
+![My image](https://github.com/bruhensant/Adeos-Oblogout/blob/master/Adeos%20v2%20-%20Cover.png)
 
