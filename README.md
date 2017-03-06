@@ -14,3 +14,4 @@ To install the theme you will need (of course) "oblogout", the .png files (conta
 
 4 - Enjoy! :D 
 
+![My image](https://github.com/bruhensant/Adeos-Oblogout/blob/master/Adeos%20v2%20-%20Cover.png)
