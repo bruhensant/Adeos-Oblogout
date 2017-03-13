@@ -1,10 +1,11 @@
-# Adeos-oblogout
+
+## Adeos-oblogout
 
 A simple style theme for "oblogout", totally made with Inkscape and Love <3
 
 To install the theme you will need (of course) "oblogout", the .png files (contained in the theme folder) and go around to find the "oblogout.conf" file (etc/oblogout.conf).
 
-# Instalation 
+## Instalation 
 
 1 - Go to "etc/oblogout.conf" to edit the file with your favorite text editor (gedit, mousepad, or whatever you prefer).
 
@@ -15,3 +16,9 @@ To install the theme you will need (of course) "oblogout", the .png files (conta
 4 - Enjoy! :D 
 
 ![My image](https://github.com/bruhensant/Adeos-Oblogout/blob/master/Adeos%20v2%20-%20Cover.png)
+
+## Contact and Thanks
+
+Me: https://t.me/bruhen    
+Thiago Silva: https://t.me/Bezzy    
+Spiral Architect: https://t.me/Spiral_Architect
