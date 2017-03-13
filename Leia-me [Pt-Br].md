@@ -19,6 +19,6 @@ Para instalar o tema você irá precisa (obviamente) do "oblogout", dos arquivos
 
 ## Contatos e Agradecimentos!
 
-Me: https://t.me/bruhen    
+Eu: https://t.me/bruhen    
 Thiago Silva: https://t.me/Bezzy    
 Spiral Architect: https://t.me/Spiral_Architect
