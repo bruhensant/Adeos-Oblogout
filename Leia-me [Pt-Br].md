@@ -1,10 +1,11 @@
-# Adeos-oblogout
+
+## Adeos-oblogout
 
 Um tema com estilo simples para o "oblogout", totalmente feito com Inkscape e Amor &lt;3
 
 Para instalar o tema você irá precisa (obviamente) do "oblogout", dos arquivos .png (contidos na pasta do tema) e fuce por aí pra econtrar o aquivo "oblogout.conf" (etc/oblogout.conf).
 
-# Instalação
+## Instalação
 
 1 - Vá em "etc/oblogout.conf" para editar o arquivo com seu editor de texto favorito (gedit, mousepad, ou qualquer coisa que você preferir).
 
@@ -16,3 +17,8 @@ Para instalar o tema você irá precisa (obviamente) do "oblogout", dos arquivos
 
 ![My image](https://github.com/bruhensant/Adeos-Oblogout/blob/master/Adeos%20v2%20-%20Cover.png)
 
+## Contatos e Agradecimentos!
+
+Me: https://t.me/bruhen    
+Thiago Silva: https://t.me/Bezzy    
+Spiral Architect: https://t.me/Spiral_Architect
