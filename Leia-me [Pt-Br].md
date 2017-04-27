@@ -9,7 +9,7 @@ Para instalar o tema você irá precisa (obviamente) do "oblogout", dos arquivos
 
 1 - Vá em "etc/oblogout.conf" para editar o arquivo com seu editor de texto favorito (gedit, mousepad, ou qualquer coisa que você preferir).
 
-2 - Modifique-o adicionando "adeos-core" ou "adeos-branco" após "buttontheme =" (exemplo: "buttontheme = adeos-cores"). Escolha de acordo com seu gosto.
+2 - Modifique-o adicionando "adeos-cores" ou "adeos-branco" após "buttontheme =" (exemplo: "buttontheme = adeos-cores"). Escolha de acordo com seu gosto.
 
 3 - Mova a pasta correspondente para "usr/share/themes". (Se você escolher a versão "adeos-branco"; mova a pasta "adeos-branco" e assim por diante)
 
@@ -19,6 +19,6 @@ Para instalar o tema você irá precisa (obviamente) do "oblogout", dos arquivos
 
 ## Contatos e Agradecimentos!
 
-Eu: https://t.me/bruhen    
+Eu: https://t.me/bruhensant    
 Thiago Silva: https://t.me/Bezzy    
 Spiral Architect: https://t.me/Spiral_Architect
