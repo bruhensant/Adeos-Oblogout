@@ -19,6 +19,6 @@ To install the theme you will need (of course) "oblogout", the .png files (conta
 
 ## Contact and Thanks
 
-Me: https://t.me/bruhen    
+Me: https://t.me/bruhensant
 Thiago Silva: https://t.me/Bezzy    
 Spiral Architect: https://t.me/Spiral_Architect
